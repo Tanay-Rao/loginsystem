@@ -66,6 +66,3 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Author
-
-- [Your Name](https://github.com/your-username)
